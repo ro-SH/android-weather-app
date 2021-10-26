@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="time_format">Update time: %1$s</string>
+    <string name="coordinates_format">%1$.6f %2$.6f</string>
+    <string name="temperature_format">%1$d°</string>
+    <string name="feels_like_format">Feels like %1$d°</string>
+    <string name="high_low_format">High: %1$d° Low: %2$d°</string>
+    <string name="pressure_format">%1$d mm Hg</string>
+    <string name="humidity_format">%1$d%%</string>
+    <string name="visibility_format">%1$.2f km</string>
+    <string name="wind_speed_format">%1$.2f m/s</string>
+    <string name="hourly_forecast">HOURLY FORECAST</string>
+    <string name="daily_forecast">DAILY FORECAST</string>
+    <string name="enter_city">Enter city</string>
+    <string name="city_not_found">City Not Found Or No Internet Connection!</string>
+    <string name="turn_on_location">Turn on location!</string>
+    <string name="today">Today</string>
+    <string name="now">Now</string>
+</resources>
